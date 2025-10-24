@@ -11,7 +11,7 @@ Amaç : Hangi müşterilerin abonelikten ayrılma olasılığının yüksek oldu
 - Streamlit arayüzü ile model demo
 
 ## Kullanılan Teknolojiler
-"Python" • "Pandas" • "Scikit-learn" • "Matplotlib" • "Seaborn" • "XGBoost" • "SHAP" • "Streamlit"
+`Python` • `Pandas` • `Scikit-learn` • `XGBoost` • `Matplotlib` • `Seaborn` • `SHAP` • `Streamlit`
 
 ## Kurulum
 ```bash
