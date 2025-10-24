@@ -15,6 +15,6 @@ Amaç : Hangi müşterilerin abonelikten ayrılma olasılığının yüksek oldu
 
 ## Kurulum
 ```bash
-git clone https://github.com/<username>/churn-prediction.git
+git clone https://github.com/hilmidmrr/churn-prediction.git
 cd churn-prediction
 pip install -r requirements.txt
