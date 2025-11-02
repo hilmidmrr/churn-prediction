@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (eğer büyükse)
+*.csv
+*.parquet
+*.pkl
+*.h5
+
+# Model files (eğer büyükse)
+models/*.pkl
+models/*.joblib
+
+# Logs
+*.log
