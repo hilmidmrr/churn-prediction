@@ -23,15 +23,5 @@ ENV/
 *.swo
 *~
 
-# Data files (eğer büyükse)
-*.csv
-*.parquet
-*.pkl
-*.h5
-
-# Model files (eğer büyükse)
-models/*.pkl
-models/*.joblib
-
 # Logs
 *.log
