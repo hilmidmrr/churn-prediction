@@ -113,7 +113,7 @@ This makes the model highly interpretable for business stakeholders.
 
 ### Clone the repository:
 ```
-git clone https://github.com/hilmidmrr/churn-prediction.git
+git clone https://github.com/hilmiidmr/churn-prediction.git
 cd churn-prediction
 ```
 ### Install dependencies:
