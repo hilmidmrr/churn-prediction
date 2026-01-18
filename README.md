@@ -4,6 +4,11 @@ The goal is to identify high-risk customers early and support retention strategi
 
 ---
 
+## Live Demo
+- Streamlit App: `https://churn-prediction-fsndnkztpkzx5hr8bmawm7.streamlit.app`
+
+---
+
 ## Overview
 This repository contains:
 - A complete ML workflow (EDA, feature engineering, modeling, optimization, explainability)
@@ -104,6 +109,10 @@ The app opens at `http://localhost:8501`.
    app/app.py
    ```
 4. Click Deploy.
+
+Notes:
+- `requirements.txt` is for the Streamlit app runtime dependencies.
+- `requirements-dev.txt` is optional and contains notebook-only dependencies (e.g., SHAP / Optuna).
 
 ---
 
