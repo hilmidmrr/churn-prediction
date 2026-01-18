@@ -1,0 +1,4 @@
+matplotlib==3.9.2
+seaborn==0.13.0
+shap==0.50.0
+optuna>=3.5.0
