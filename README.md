@@ -5,7 +5,7 @@ The goal is to identify high-risk customers early and support retention strategi
 ---
 
 ## Live Demo
-- Streamlit App: `https://churn-prediction-fsndnkztpkzx5hr8bmawm7.streamlit.app`
+- Streamlit App: (https://churn-prediction-fsndnkztpkzx5hr8bmawm7.streamlit.app)
 
 ---
 
